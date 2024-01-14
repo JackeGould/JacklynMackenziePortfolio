@@ -7,13 +7,13 @@ body {
     
     @font-face {
       font-family: brown;
-      src: url("fonts/BrownVolky-2Oq23.otf")
+      src: url("assets/fonts/BrownVolky-2Oq23.otf")
     }
     
     
     @font-face {
       font-family: montserrat;
-      src: url("fonts/MontserratAlternates-Medium.ttf")
+      src: url("assets/fonts/MontserratAlternates-Medium.ttf")
     }
     
     h1 {
